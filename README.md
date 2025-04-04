@@ -48,5 +48,5 @@ I am a fresher seeking a position as a Full Stack Developer. I possess strong pr
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-url)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](your-github-url)  
-📧 **Email:** rahul.marinuthsu@gmail.com  
+📧 **Email:** rahul.marimuthu9@gmail.com  
 📞 **Phone:** +91 7708488614
