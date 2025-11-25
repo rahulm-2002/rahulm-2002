@@ -9,17 +9,21 @@ I am a fresher seeking a position as a Full Stack Developer. I possess strong pr
   Sep '20 – May '24 | Sivagangai, India
 
 ## 🛠 Skills
-- **Languages:** Python, C#, SQL, COBOL, JavaScript  
-- **Frameworks:** ASP.NET Core MVC, ASP.NET MVC Framework, Flutter, Bootstrap  
-- **Testing Skills:** Junit, Xunit.net  
-- **Tools:** MS SQL, Power BI, Excel, Microsoft PowerPoint  
+- **Languages:** Python, C#, SQL, JavaScript  
+- **Frameworks:** ASP.NET Core MVC, ASP.NET MVC Framework, Bootstrap  
+- **Tools:** MS SQL,Excel, Microsoft PowerPoint  
 - **Platforms:** ASP.NET Core, Visual Studio, Visual Studio Code, Visual Studio .NET  
 - **Soft Skills:** Excellent communication, People Management, Rapport Building  
 - **Interests:** Web Development, Full Stack, Frontend, Backend, SQL  
 
 ## 💼 Experience
+### Multicloud Engineer
+**Cognizant** | Jun '24 - Present | CBE, India
+- CMDB Tasks
+- SAM Tasks
+- SmartOPs
 ### Dot Net Developer Intern  
-**NetworkzSystems** | Nov '24 – Present | Madurai, India  
+**NetworkzSystems** | Nov '24 – May '24 | Madurai, India  
 - Assisted in the development and maintenance of web applications using .NET Core, C#, and ASP.NET.
 - Collaborated with senior developers to design, implement, and test new features.
 - Supported debugging and troubleshooting of existing applications.
