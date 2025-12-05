@@ -21,7 +21,7 @@ I am a fresher seeking a position as a Full Stack Developer. I possess strong pr
 **Cognizant** | Jun '24 - Present | CBE, India
 - CMDB Tasks
 - SAM Tasks
-- SmartOPs
+- HAM Tasks
 ### Dot Net Developer Intern  
 **NetworkzSystems** | Nov '24 – May '24 | Madurai, India  
 - Assisted in the development and maintenance of web applications using .NET Core, C#, and ASP.NET.
