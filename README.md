@@ -20,7 +20,7 @@ I am a fresher seeking a position as a Full Stack Developer. I possess strong pr
 ### Multicloud Engineer
 **Cognizant** | Jun '24 - Present | CBE, India
 - CMDB Tasks
-- SAM Tasks
+- GenAI Automation
 - HAM Tasks
 ### Dot Net Developer Intern  
 **NetworkzSystems** | Nov '24 – May '24 | Madurai, India  
