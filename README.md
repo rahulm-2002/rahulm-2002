@@ -22,7 +22,7 @@ I am a fresher seeking a position as a Full Stack Developer. I possess strong pr
 - CMDB Tasks
 - GenAI Automation
 - HAM Tasks
-### Dot Net Developer Intern  
+### Dot Net Developer 
 **NetworkzSystems** | Nov '24 – May '24 | Madurai, India  
 - Assisted in the development and maintenance of web applications using .NET Core, C#, and ASP.NET.
 - Collaborated with senior developers to design, implement, and test new features.
